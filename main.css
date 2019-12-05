@@ -1,0 +1,29 @@
+.bigdiv {
+    width:100%;
+    height:100%;
+    position:absolute;
+    background: white;
+ }
+.train{
+    position: absolute;
+    left: 500px;
+    top: 10px; 
+    height: 55px;
+    width: 55px;
+    z-index: 2
+
+}
+.maptrain{
+    position: absolute;
+    left: 500px;
+    top: 10px;
+    z-index: 1
+}
+.traintwo{
+    position: absolute;
+    left: 500px;
+    top: 10px; 
+    height: 55px;
+    width: 55px;
+    z-index: 2
+}
